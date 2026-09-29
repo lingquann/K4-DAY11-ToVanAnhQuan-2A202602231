@@ -1,1 +1,5 @@
-id,date,question,decision,rationale,status
+id,date,scope,decision,rationale,status
+D1,2026-09-29,B2-edge,"Sua box Truck canh day cham mat duong tai adasind_102750.jpg","Dam bao hinh hoc bieu dien dung vi tri tiep xuc banh xe",resolved
+D2,2026-09-29,B2-edge,"Bat co truncated cho ThreeWheeler tai adasind_069450.jpg","Vat the bi cat boi mep vong kinh quang hoc",resolved
+D3,2026-09-29,B2-edge,"Bo sung box Truck lề trai bi bo sot","Vat the co chieu cao tren 40px nam trong vung nhin ro",resolved
+D4,2026-09-29,B2-edge,"Escalate ca xe tai trong vung toi bi che khuat tai adasind_102750.jpg","Can Data Ops xac nhan ve bien box vung nhap nhang truoc khi khoa gold set",escalated

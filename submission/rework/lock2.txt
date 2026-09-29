@@ -1,0 +1,9 @@
+round: rework
+slice: B2-edge
+sha256: ffc92d9204a7dd630e989ebc8c2b6f44a5cbe6e891ee65289dfde7e5b32de9ea
+code: FFC9-2D92
+locked_at: 2026-09-29T20:40:23+07:00
+shapes: box=17, polygon=13
+prefill_kept: 2
+prefill_edited: 1
+new: 14

@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,30,Loi class nham giua Car va Bus,Vung quan sat phia truoc luu thong tieu chuan
+front,hard,25,Loa sang nguoc chieu va vat the chuyen dong nhanh,Thu thap tinh huong giao thong gio cao diem va troi nang gat
+rear,normal,25,Sai sot bo qua Bike/Pedestrian phia sau,Giam sat hanh trinh lui xe va do xe tieu chuan
+rear,hard,20,Diem mu goc thap va bui ban bam ong kinh,Kiem tra kha nang nhan dien vat the khi camera bi bam ban
+left,normal,25,Loi bien do bien dang mep fisheye,Quan sat vat the ben suon xe o toc do on dinh
+left,hard,25,Vat the bi cat vung seam va che khuat lien tuc,Danh gia do lech hinh hoc khi xe may vuot sat suon
+right,normal,25,Thieu nhan Pedestrian le duong,Quan sat nguoi di bo va xe 2 banh ben le phu
+right,hard,25,Bien dang fisheye cuc dai va khuat tam nhin via he,Danh gia tinh huong do le duong va chuong ngai vat thap

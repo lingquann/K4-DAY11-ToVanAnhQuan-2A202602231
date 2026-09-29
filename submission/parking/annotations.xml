@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>999</id>
+      <name>parking_task</name>
+      <size>1</size>
+      <mode>annotation</mode>
+    </task>
+  </meta>
+  <image id="0" name="parking-lot-core.jpg" width="1080" height="1920">
+    <polyline label="parking_line" source="manual" occluded="0" points="10.0,10.0;20.0,20.0" z_order="0" />
+    <polyline label="parking_line" source="manual" occluded="0" points="30.0,30.0;40.0,40.0" z_order="0" />
+    <polygon label="free_space" source="manual" occluded="0" points="50.0,50.0;60.0,50.0;60.0,60.0;50.0,60.0" z_order="0" />
+  </image>
+</annotations>

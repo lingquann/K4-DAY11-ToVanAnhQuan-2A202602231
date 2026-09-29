@@ -1,0 +1,19 @@
+{
+  "members": [
+    "minh",
+    "quan",
+    "thach"
+  ],
+  "assignments": {
+    "minh": "B4-edge",
+    "quan": "B2-edge",
+    "thach": "B3-edge"
+  },
+  "self": "quan",
+  "slice": "B2-edge",
+  "degrade": [],
+  "current_slice": "C0",
+  "support_prefill": false,
+  "support_slice": "",
+  "prefill_box_ids": []
+}
